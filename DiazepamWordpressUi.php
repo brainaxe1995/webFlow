@@ -1137,6 +1137,7 @@ body.bg-white {
                 </button>
             </div>
         </div>
+    </div>
     <button id="customCartBtn8" style="display:none;"></button>
     <button id="customCartBtn9" style="display:none;"></button>
 <script>

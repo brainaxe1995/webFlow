@@ -9,7 +9,7 @@ Template Name: Funnel Landing page diazepam by S
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diazepam Finally, a Real Solution for Your Sleep Problems</title>
+    <title>Diazepam – Fast Relief for Panic and Anxiety</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <script>
@@ -112,12 +112,11 @@ body.bg-white {
                     </div>
                     
                     <h1 class="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold text-slate-900 leading-[1.1] mb-6 sm:mb-8 tracking-tight px-2 sm:px-0">
-                        Finally, a Real Solution for Your
-                        <span class="text-blue-600">Sleep Problems</span>
+                        “I Was Hiding Panic Attacks From Everyone. I Thought I Was Going Crazy.”
                     </h1>
-                    
+
                     <p class="text-lg sm:text-xl lg:text-2xl text-slate-600 mb-8 sm:mb-10 leading-relaxed font-light max-w-2xl mx-auto lg:mx-0 px-2 sm:px-0">
-                        Join <strong class="text-slate-900 font-semibold">3,791+ people</strong> who discovered the doctor-recommended solution that works when everything else fails.
+                        <span class="font-semibold">How One Simple Pill Helped Me Sleep, Calm Down,</span> and Take Control of My Life Again.
                     </p>
                     
                     <!-- Social Proof -->
@@ -163,8 +162,8 @@ body.bg-white {
                     </div>
                     
                     <div class="space-y-3 sm:space-y-4 px-2 sm:px-0">
-                        <button id="customCartBtn" onclick="orderNow()" class="w-full bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg sm:text-xl px-6 sm:px-10 py-4 sm:py-5 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
-                            Get Better Sleep Tonight 50% OFF
+                        <button id="customCartBtn" class="w-full bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg sm:text-xl px-6 sm:px-10 py-4 sm:py-5 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                            ORDER NOW 50% OFF DIAZEPAM
                         </button>
                         <p class="text-xs sm:text-sm text-slate-500 text-center">⚡ Only 5 left! • Secure checkout in 2 minutes</p>
                         <p class="text-sm text-gray-500 text-center mt-2">✅ 21 packs currently available at checkout</p>
@@ -293,64 +292,56 @@ body.bg-white {
                 <div class="animate-fade-in">
                     <div class="inline-flex items-center gap-2 bg-red-100 px-4 py-2 rounded-full mb-6">
                         <div class="w-2 h-2 bg-red-500 rounded-full"></div>
-                        <span class="text-red-800 font-semibold text-sm">The Hidden Sleep Crisis</span>
+                        <span class="text-red-800 font-semibold text-sm">Feeling Anxious, Sleepless, or On Edge?</span>
                     </div>
-                    
+
                     <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black text-gray-900 leading-tight mb-6">
-                        If You've Ever Felt Like a 
-                        <span class="bg-gradient-to-r from-red-500 to-orange-500 bg-clip-text text-transparent"> Zombie</span> During the Day...
+                        😰 Do You Feel Anxious, Sleepless, or On Edge?
                     </h2>
                     
                     <div class="space-y-6 mb-8">
                         <p class="text-xl text-gray-700 leading-relaxed">
-                            You know the frustration. You've tried <em>everything</em> melatonin, white noise, meditation apps, expensive mattresses...
+                            I looked fine on the outside. But inside? Panic, tight chest, racing thoughts, and zero sleep.
                         </p>
-                        
-                        <p class="text-xl text-gray-700 leading-relaxed">
-                            But you're still lying there at 3 AM, watching the clock, dreading tomorrow.
-                        </p>
-                        
+                        <p class="text-xl text-gray-700 leading-relaxed">If natural remedies haven't worked, you're not broken and you're not alone.</p>
                         <div class="bg-gradient-to-r from-orange-50 to-red-50 border-l-4 border-orange-400 p-6 rounded-r-2xl">
-                            <p class="text-lg font-semibold text-gray-900 mb-2">
-                                The truth? You're not "just a bad sleeper."
-                            </p>
                             <p class="text-gray-700">
-                                You're dealing with <strong>short-term insomnia</strong> a real medical condition affecting over 30% of adults.
+                                <strong>Diazepam helped me feel normal again. It could help you too.</strong>
                             </p>
                         </div>
                     </div>
-                    
+
                     <div class="space-y-4 mb-8">
                         <h3 class="text-2xl font-bold text-gray-900 mb-4">Sound familiar?</h3>
                         <div class="flex items-start gap-4 animate-scale-in">
                             <svg class="w-6 h-6 text-red-500 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-lg text-gray-700">Lying awake for hours, mind racing at 2 AM</span>
+                            <span class="text-lg text-gray-700">Constant overthinking</span>
                         </div>
                         <div class="flex items-start gap-4 animate-scale-in animate-delay-1">
                             <svg class="w-6 h-6 text-red-500 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-lg text-gray-700">Waking up multiple times during the night</span>
+                            <span class="text-lg text-gray-700">Panic attacks or tight chest</span>
                         </div>
                         <div class="flex items-start gap-4 animate-scale-in animate-delay-2">
                             <svg class="w-6 h-6 text-red-500 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-lg text-gray-700">Feeling exhausted even after 8+ hours in bed</span>
+                            <span class="text-lg text-gray-700">Restless sleep or insomnia</span>
                         </div>
                         <div class="flex items-start gap-4 animate-scale-in animate-delay-3">
                             <svg class="w-6 h-6 text-red-500 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-lg text-gray-700">Morning brain fog and irritability</span>
+                            <span class="text-lg text-gray-700">Unexplained irritability or dread</span>
                         </div>
                         <div class="flex items-start gap-4 animate-scale-in animate-delay-4">
                             <svg class="w-6 h-6 text-red-500 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-lg text-gray-700">Relying on caffeine just to function</span>
+                            <span class="text-lg text-gray-700">Feeling exhausted but unable to rest</span>
                         </div>
                     </div>
                     
@@ -361,8 +352,8 @@ body.bg-white {
                         </p>
                     </div>
                     
-                    <button id="customCartBtn1" onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
-                        🌙 Show Me The Solution (50% OFF)
+                    <button id="customCartBtn1" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                        👍 CLAIM YOUR 50% DISCOUNT
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
   💬 <strong>60-Day Refund Guarantee:</strong> If you're not satisfied, return the unused portion within 60 days for a full refund. No questions asked.
@@ -419,11 +410,11 @@ body.bg-white {
                 <!-- Content Side -->
                 <div class="animate-slide-in-right">
                     <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black text-gray-900 mb-6 font-poppins">
-                        💤 What is <span class="bg-gradient-to-r from-green-500 to-emerald-600 bg-clip-text text-transparent">Diazepam</span> and Why Is It So Effective?
+                        💊 What is <span class="bg-gradient-to-r from-green-500 to-emerald-600 bg-clip-text text-transparent">Diazepam</span> and Why It Works So Fast
                     </h2>
                     
                     <p class="text-xl text-gray-700 mb-6 leading-relaxed">
-                        Diazepam is a prescription sleep medication that <strong class="text-green-600">works by calming the brain</strong> and restoring a natural sleep cycle.
+                        Diazepam (Valium) is a prescription medication used to calm the nervous system and promote fast relief.
                     </p>
                     
                     <div class="space-y-4 mb-8">
@@ -431,35 +422,35 @@ body.bg-white {
                             <div class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0">
                                 <span class="text-white text-sm font-bold">✓</span>
                             </div>
-                            <span class="text-gray-700 font-medium">Clinically proven effectiveness</span>
+                            <span class="text-gray-700 font-medium">Stops panic and fear within 30–60 minutes</span>
                         </div>
                         <div class="flex items-center gap-3 animate-scale-in animate-delay-1">
                             <div class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0">
                                 <span class="text-white text-sm font-bold">✓</span>
                             </div>
-                            <span class="text-gray-700 font-medium">Fast-acting (works within 30 minutes)</span>
+                            <span class="text-gray-700 font-medium">Promotes restful, uninterrupted sleep</span>
                         </div>
                         <div class="flex items-center gap-3 animate-scale-in animate-delay-2">
                             <div class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0">
                                 <span class="text-white text-sm font-bold">✓</span>
                             </div>
-                            <span class="text-gray-700 font-medium">Non-habit-forming when used short-term</span>
+                            <span class="text-gray-700 font-medium">Relieves anxiety, muscle tension, and overthinking</span>
                         </div>
                         <div class="flex items-center gap-3 animate-scale-in animate-delay-3">
                             <div class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0">
                                 <span class="text-white text-sm font-bold">✓</span>
                             </div>
-                            <span class="text-gray-700 font-medium">Improves sleep quality, not just quantity</span>
+                            <span class="text-gray-700 font-medium">Doctor-approved and clinically proven</span>
                         </div>
                     </div>
                     
                     <div class="bg-gradient-to-r from-green-50 to-emerald-50 border-l-4 border-green-500 p-6 rounded-lg mb-8">
                         <p class="text-lg font-semibold text-gray-900">
-                            <strong>In just 7–14 days</strong>, Diazepam can help <strong class="text-green-600">reset your sleep rhythm</strong>, so you wake up feeling <strong>refreshed, focused, and human again</strong>.
+                            It's not a vitamin. It's real, fast, medical relief used safely by millions.
                         </p>
                     </div>
                     
-                    <button id="customCartBtn2" onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                    <button id="customCartBtn2" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
                         👍 CLAIM YOUR 50% DISCOUNT
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
@@ -483,25 +474,17 @@ body.bg-white {
                 <!-- Content Side -->
                 <div class="animate-fade-in">
                     <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black text-gray-900 mb-6 font-poppins">
-                        🔬 How <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Science</span> Backs This Solution
+                        🧠 How Diazepam Works in Your Brain
                     </h2>
-                    
+
                     <p class="text-xl text-gray-700 mb-6 leading-relaxed">
-                        Diazepam enhances the brain's natural calming signals (GABA), slowing overactive neural activity.
+                        Diazepam boosts GABA—your brain’s natural calming chemical. It slows down overactivity, helping you breathe easier and feel still again.
                     </p>
                     
                     <div class="bg-white rounded-2xl p-6 shadow-lg border border-blue-200 mb-8">
-                        <div class="flex items-start gap-4">
-                            <div class="w-12 h-12 bg-blue-500 rounded-full flex items-center justify-center flex-shrink-0">
-                                <span class="text-white text-xl">🧠</span>
-                            </div>
-                            <div>
-                                <h3 class="font-bold text-gray-900 mb-2">Natural Sleep Transition</h3>
-                                <p class="text-gray-700">
-                                    Instead of "knocking you out," it helps your brain transition smoothly into deep sleep stages, promoting <strong>natural, restorative rest</strong> without feeling drugged the next day.
-                                </p>
-                            </div>
-                        </div>
+                        <p class="text-gray-700">
+                            🧠 Thoughts quiet down<br>🫁 Breathing eases<br>😴 Sleep comes naturally<br>😌 Body finally relaxes
+                        </p>
                     </div>
                     
                     <div class="grid grid-cols-2 gap-4 mb-8">
@@ -515,7 +498,7 @@ body.bg-white {
                         </div>
                     </div>
                     
-                    <button id="customCartBtn3" onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                    <button id="customCartBtn3" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
                         👍 CLAIM YOUR 50% DISCOUNT
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
@@ -544,39 +527,39 @@ body.bg-white {
             
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in border border-green-100">
-                    <div class="text-4xl mb-4 text-center">💤</div>
-                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Fall Asleep Quickly</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">No more tossing and turning for hours</p>
+                    <div class="text-4xl mb-4 text-center">⚡</div>
+                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Fast-Acting</h3>
+                    <p class="text-gray-600 text-center leading-relaxed">Feel calm within 30–60 minutes</p>
                 </div>
                 
                 <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-1 border border-green-100">
-                    <div class="text-4xl mb-4 text-center">🌙</div>
-                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Stay Asleep All Night</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">Fewer disturbances and wake-ups</p>
+                    <div class="text-4xl mb-4 text-center">😌</div>
+                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Stops Panic</h3>
+                    <p class="text-gray-600 text-center leading-relaxed">Block spirals before they begin</p>
                 </div>
                 
                 <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-2 border border-green-100">
-                    <div class="text-4xl mb-4 text-center">☀️</div>
-                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Wake Up Refreshed</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">Say goodbye to morning grogginess</p>
+                    <div class="text-4xl mb-4 text-center">🛏️</div>
+                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Sleep Better</h3>
+                    <p class="text-gray-600 text-center leading-relaxed">Fall asleep and stay asleep</p>
                 </div>
                 
                 <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-3 border border-green-100">
-                    <div class="text-4xl mb-4 text-center">🔄</div>
-                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Short-Term Reset</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">Just 7–14 days to reboot your rhythm</p>
+                    <div class="text-4xl mb-4 text-center">💪</div>
+                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Eases Tension</h3>
+                    <p class="text-gray-600 text-center leading-relaxed">Muscle and nerve relaxation</p>
                 </div>
                 
                 <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-4 border border-green-100">
                     <div class="text-4xl mb-4 text-center">👨‍⚕️</div>
                     <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Doctor-Recommended</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">Trusted by medical professionals for years</p>
+                    <p class="text-gray-600 text-center leading-relaxed">Trusted worldwide for 60+ years</p>
                 </div>
                 
                 <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-5 border border-green-100">
-                    <div class="text-4xl mb-4 text-center">⚡</div>
-                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Fast-Acting Formula</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">Feel the effects within 30 minutes</p>
+                    <div class="text-4xl mb-4 text-center">🔄</div>
+                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Short-Term Reset</h3>
+                    <p class="text-gray-600 text-center leading-relaxed">Just 7–14 days use</p>
                 </div>
             </div>
         </div>
@@ -587,10 +570,10 @@ body.bg-white {
         <div class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-12 sm:mb-16">
                 <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-slate-900 mb-4 sm:mb-6 px-4">
-                    Real People. <span class="text-blue-600">Real Results.</span>
+                    Real People. <span class="text-blue-600">Real Calm.</span>
                 </h2>
                 <p class="text-lg sm:text-xl text-slate-600 max-w-3xl mx-auto px-4">
-                    Thousands of people have already transformed their sleep with Diazepam. Here's what they're saying:
+                    Thousands have regained peace of mind with Diazepam. Here's what they're saying:
                 </p>
             </div>
 
@@ -856,7 +839,7 @@ body.bg-white {
                     </li>
                 </ul>
                 
-                <button id="customCartBtn4" onclick="orderNow()" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                <button id="customCartBtn4" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
                     👍 ORDER NOW 50% OFF DIAZEPAM
                 </button>
                 
@@ -1104,7 +1087,7 @@ body.bg-white {
                         </li>
                     </ul>
                     
-                    <button id="customCartBtn5" onclick="orderNow()" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                    <button id="customCartBtn5" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
                         👍 CLAIM YOUR 50% DISCOUNT
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
@@ -1126,15 +1109,16 @@ body.bg-white {
         <div class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto animate-fade-in">
                 <h2 class="text-3xl sm:text-4xl font-black text-gray-900 mb-6 font-poppins">
-                    Stop Letting Sleepless Nights Steal Your Energy, Mood, and Focus
+                    🕒 Don’t Wait For Your Next Breakdown
                 </h2>
-                
-                <p class="text-xl text-gray-700 mb-8 leading-relaxed">
-                    Diazepam isn't a magic pill it's a <strong>scientifically backed, doctor-recommended solution</strong> that's helped thousands finally get real sleep. You deserve real rest.
+
+                <p class="text-xl text-gray-700 mb-4 leading-relaxed">
+                    You’ve been pretending everything’s fine. Powering through. But the panic attacks and restless nights are real.
                 </p>
-                
-                <button id="customCartBtn6" onclick="orderNow()" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
-                    😉 Give Diazepam a Try
+                <p class="text-xl text-gray-700 mb-8 leading-relaxed"><strong>Diazepam helped me feel human again. It can help you too.</strong></p>
+
+                <button id="customCartBtn6" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                    😉 Try Diazepam Now 50% OFF
                 </button>
             </div>
         </div>
@@ -1145,17 +1129,16 @@ body.bg-white {
         <div class="container mx-auto max-w-4xl">
             <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
                 <div class="text-center sm:text-left">
-                    <p class="font-bold text-gray-900">Ready for better sleep?</p>
+                    <p class="font-bold text-gray-900">Ready to feel calm again?</p>
                     <p class="text-sm text-gray-600">Limited time: 50% OFF + Free shipping</p>
                 </div>
-                <button id="customCartBtn7" onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                <button id="customCartBtn7" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
                     🌙 Get Diazepam Now €29.95
                 </button>
             </div>
         </div>
     <button id="customCartBtn8" style="display:none;"></button>
     <button id="customCartBtn9" style="display:none;"></button>
-        });
 <script>
 
 	document.getElementById('customCartBtn').addEventListener('click', function() {
@@ -1196,8 +1179,26 @@ body.bg-white {
 	document.getElementById('customCartBtn9').addEventListener('click', function() {
     getCartItemZopclone();
 });
-	
-	
+
+// Floating CTA functionality
+function initFloatingCTA() {
+    const floatingCTA = document.getElementById('floatingCTA');
+    let isVisible = false;
+
+    function toggleVisibility() {
+        if (window.pageYOffset > 300 && !isVisible) {
+            floatingCTA.classList.remove('translate-y-full');
+            isVisible = true;
+        } else if (window.pageYOffset <= 300 && isVisible) {
+            floatingCTA.classList.add('translate-y-full');
+            isVisible = false;
+        }
+    }
+
+    window.addEventListener('scroll', toggleVisibility);
+}
+
+
 function getCartItemZopclone() {
     // Define the hardcoded cart data as provided
     var cartData = [{
@@ -1224,6 +1225,11 @@ function getCartItemZopclone() {
     console.log("Redirecting to API with URL:", apiUrl);
     window.location.href = apiUrl;
 }
+
+// Initialize floating CTA when DOM is ready
+document.addEventListener('DOMContentLoaded', function() {
+    initFloatingCTA();
+});
 
 </script>
 

@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Funnel Landing page diazepam by S
+Template Name: Funnel Landing page Diazepam by S
 */
 ?>
 
@@ -106,17 +106,17 @@ body.bg-white {
             <div class="grid lg:grid-cols-2 gap-8 lg:gap-20 items-center">
                 <!-- Content Side -->
                 <div class="order-2 lg:order-1 text-center lg:text-left">
-                    <div class="inline-flex items-center gap-2 bg-emerald-50 px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-6 sm:mb-8 border border-emerald-200">
-                        <div class="w-2 h-2 bg-emerald-500 rounded-full"></div>
-                        <span class="text-emerald-700 font-semibold text-xs sm:text-sm tracking-wide">DOCTOR RECOMMENDED</span>
+                    <div class="inline-flex items-center gap-2 bg-indigo-50 px-3 py-1.5 sm:px-4 sm:py-2 rounded-full mb-6 sm:mb-8 border border-indigo-200">
+                        <div class="w-2 h-2 bg-indigo-500 rounded-full"></div>
+                        <span class="text-indigo-700 font-semibold text-xs sm:text-sm tracking-wide">DOCTOR RECOMMENDED</span>
                     </div>
                     
                     <h1 class="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold text-slate-900 leading-[1.1] mb-6 sm:mb-8 tracking-tight px-2 sm:px-0">
                         “I Was Hiding Panic Attacks From Everyone. I Thought I Was Going Crazy.”
                     </h1>
-
+                    
                     <p class="text-lg sm:text-xl lg:text-2xl text-slate-600 mb-8 sm:mb-10 leading-relaxed font-light max-w-2xl mx-auto lg:mx-0 px-2 sm:px-0">
-                        <span class="font-semibold">How One Simple Pill Helped Me Sleep, Calm Down,</span> and Take Control of My Life Again.
+                        How One Simple Pill Helped Me Sleep, Calm Down, and Take Control of My Life Again.
                     </p>
                     
                     <!-- Social Proof -->
@@ -162,8 +162,8 @@ body.bg-white {
                     </div>
                     
                     <div class="space-y-3 sm:space-y-4 px-2 sm:px-0">
-                        <button id="customCartBtn" class="w-full bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg sm:text-xl px-6 sm:px-10 py-4 sm:py-5 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
-                            ORDER NOW 50% OFF DIAZEPAM
+                        <button id="customCartBtn" class="w-full bg-gradient-to-r from-purple-500 to-indigo-600 hover:from-purple-600 hover:to-indigo-700 text-white font-black text-lg sm:text-xl px-6 sm:px-10 py-4 sm:py-5 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                            Get Better Sleep Tonight 50% OFF
                         </button>
                         <p class="text-xs sm:text-sm text-slate-500 text-center">⚡ Only 5 left! • Secure checkout in 2 minutes</p>
                         <p class="text-sm text-gray-500 text-center mt-2">✅ 21 packs currently available at checkout</p>
@@ -174,7 +174,7 @@ body.bg-white {
                 <div class="order-1 lg:order-2 px-4 sm:px-0">
                     <div class="relative">
                         <div class="absolute -inset-3 sm:-inset-6 bg-blue-100 rounded-2xl sm:rounded-3xl opacity-30"></div>
-                        <img src="https://tharavix.com/wp-content/uploads/2025/06/1-15.webp" alt="Anxiety struggles" class="relative w-full rounded-xl sm:rounded-2xl shadow-2xl">
+                        <video class="relative w-full rounded-xl sm:rounded-2xl shadow-2xl" src="https://tharavix.com/wp-content/uploads/2025/06/Diazepam-Revised-2.mp4" controls playsinline poster="https://tharavix.com/wp-content/uploads/2025/06/Screenshot-2025-06-04-at-02.36.42.png"></video>
                         <!-- Floating elements -->
                         <div class="absolute -top-2 -right-2 sm:-top-4 sm:-right-4 bg-white rounded-lg sm:rounded-xl p-2 sm:p-4 shadow-lg border border-slate-100">
                             <div class="text-center">
@@ -182,7 +182,7 @@ body.bg-white {
                                 <div class="text-xs sm:text-sm text-slate-600 font-medium">Days to Reset</div>
                             </div>
                         </div>
-                        <div class="absolute -bottom-2 -left-2 sm:-bottom-4 sm:-left-4 bg-emerald-500 text-white rounded-lg sm:rounded-xl p-2 sm:p-4 shadow-lg">
+                        <div class="absolute -bottom-2 -left-2 sm:-bottom-4 sm:-left-4 bg-indigo-500 text-white rounded-lg sm:rounded-xl p-2 sm:p-4 shadow-lg">
                             <div class="text-center">
                                 <div class="text-xs sm:text-sm font-bold">✓ FDA Approved</div>
                                 <div class="text-[10px] sm:text-xs opacity-90">Safe & Effective</div>
@@ -260,8 +260,8 @@ body.bg-white {
                                         <span class="text-sm text-gray-500">25+ years experience</span>
                                     </div>
                                 </div>
-                                <div class="bg-gradient-to-r from-green-100 to-emerald-100 px-3 py-1 rounded-full">
-                                    <span class="text-green-800 text-sm font-semibold">✓ Verified</span>
+                                <div class="bg-gradient-to-r from-purple-100 to-indigo-100 px-3 py-1 rounded-full">
+                                    <span class="text-purple-800 text-sm font-semibold">✓ Verified</span>
                                 </div>
                             </div>
                             
@@ -292,56 +292,64 @@ body.bg-white {
                 <div class="animate-fade-in">
                     <div class="inline-flex items-center gap-2 bg-red-100 px-4 py-2 rounded-full mb-6">
                         <div class="w-2 h-2 bg-red-500 rounded-full"></div>
-                        <span class="text-red-800 font-semibold text-sm">Feeling Anxious, Sleepless, or On Edge?</span>
+                        <span class="text-red-800 font-semibold text-sm">The Hidden Sleep Crisis</span>
                     </div>
-
+                    
                     <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black text-gray-900 leading-tight mb-6">
-                        😰 Do You Feel Anxious, Sleepless, or On Edge?
+                        If You've Ever Felt Like a 
+                        <span class="bg-gradient-to-r from-red-500 to-orange-500 bg-clip-text text-transparent"> Zombie</span> During the Day...
                     </h2>
                     
                     <div class="space-y-6 mb-8">
                         <p class="text-xl text-gray-700 leading-relaxed">
-                            I looked fine on the outside. But inside? Panic, tight chest, racing thoughts, and zero sleep.
+                            You know the frustration. You've tried <em>everything</em> melatonin, white noise, meditation apps, expensive mattresses...
                         </p>
-                        <p class="text-xl text-gray-700 leading-relaxed">If natural remedies haven't worked, you're not broken and you're not alone.</p>
+                        
+                        <p class="text-xl text-gray-700 leading-relaxed">
+                            But you're still lying there at 3 AM, watching the clock, dreading tomorrow.
+                        </p>
+                        
                         <div class="bg-gradient-to-r from-orange-50 to-red-50 border-l-4 border-orange-400 p-6 rounded-r-2xl">
+                            <p class="text-lg font-semibold text-gray-900 mb-2">
+                                The truth? You're not "just a bad sleeper."
+                            </p>
                             <p class="text-gray-700">
-                                <strong>Diazepam helped me feel normal again. It could help you too.</strong>
+                                You're dealing with <strong>short-term insomnia</strong> a real medical condition affecting over 30% of adults.
                             </p>
                         </div>
                     </div>
-
+                    
                     <div class="space-y-4 mb-8">
                         <h3 class="text-2xl font-bold text-gray-900 mb-4">Sound familiar?</h3>
                         <div class="flex items-start gap-4 animate-scale-in">
                             <svg class="w-6 h-6 text-red-500 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-lg text-gray-700">Constant overthinking</span>
+                            <span class="text-lg text-gray-700">Lying awake for hours, mind racing at 2 AM</span>
                         </div>
                         <div class="flex items-start gap-4 animate-scale-in animate-delay-1">
                             <svg class="w-6 h-6 text-red-500 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-lg text-gray-700">Panic attacks or tight chest</span>
+                            <span class="text-lg text-gray-700">Waking up multiple times during the night</span>
                         </div>
                         <div class="flex items-start gap-4 animate-scale-in animate-delay-2">
                             <svg class="w-6 h-6 text-red-500 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-lg text-gray-700">Restless sleep or insomnia</span>
+                            <span class="text-lg text-gray-700">Feeling exhausted even after 8+ hours in bed</span>
                         </div>
                         <div class="flex items-start gap-4 animate-scale-in animate-delay-3">
                             <svg class="w-6 h-6 text-red-500 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-lg text-gray-700">Unexplained irritability or dread</span>
+                            <span class="text-lg text-gray-700">Morning brain fog and irritability</span>
                         </div>
                         <div class="flex items-start gap-4 animate-scale-in animate-delay-4">
                             <svg class="w-6 h-6 text-red-500 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-lg text-gray-700">Feeling exhausted but unable to rest</span>
+                            <span class="text-lg text-gray-700">Relying on caffeine just to function</span>
                         </div>
                     </div>
                     
@@ -352,8 +360,8 @@ body.bg-white {
                         </p>
                     </div>
                     
-                    <button id="customCartBtn1" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
-                        👍 CLAIM YOUR 50% DISCOUNT
+                    <button id="customCartBtn1" class="w-full sm:w-auto bg-gradient-to-r from-purple-500 to-indigo-600 hover:from-purple-600 hover:to-indigo-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                        🌙 Show Me The Solution (50% OFF)
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
   💬 <strong>60-Day Refund Guarantee:</strong> If you're not satisfied, return the unused portion within 60 days for a full refund. No questions asked.
@@ -374,7 +382,7 @@ body.bg-white {
                 <div class="animate-slide-in-right">
                     <div class="relative">
                         <div class="absolute -inset-4 bg-gradient-to-r from-red-400 to-orange-500 rounded-3xl blur-2xl opacity-20"></div>
-                        <img src="https://tharavix.com/wp-content/uploads/2025/04/di2.webp" alt="Natural solutions fail" class="relative w-full rounded-3xl shadow-2xl border-4 border-white">
+                        <img src="https://tharavix.com/wp-content/uploads/2025/06/1-15.webp" alt="Anxiety struggles" class="relative w-full rounded-3xl shadow-2xl border-4 border-white">
                         <!-- Overlay stats -->
                         <div class="absolute bottom-4 left-4 right-4 bg-white/90 backdrop-blur-sm rounded-2xl p-4">
                             <div class="grid grid-cols-3 gap-4 text-center">
@@ -404,13 +412,13 @@ body.bg-white {
             <div class="grid lg:grid-cols-2 gap-8 lg:gap-16 items-center">
                 <!-- Image Side -->
                 <div class="animate-fade-in">
-                    <img src="https://tharavix.com/wp-content/uploads/2025/04/GIF-2-1.gif" alt="Diazepam Use" class="w-full rounded-3xl shadow-2xl border-4 border-green-200">
+                    <img src="https://tharavix.com/wp-content/uploads/2025/04/GIF-2-1.gif" alt="Diazepam Use" class="w-full rounded-3xl shadow-2xl border-4 border-purple-200">
                 </div>
                 
                 <!-- Content Side -->
                 <div class="animate-slide-in-right">
                     <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black text-gray-900 mb-6 font-poppins">
-                        💊 What is <span class="bg-gradient-to-r from-green-500 to-emerald-600 bg-clip-text text-transparent">Diazepam</span> and Why It Works So Fast
+                        💊 What is <span class="bg-gradient-to-r from-purple-500 to-indigo-600 bg-clip-text text-transparent">Diazepam</span> and Why It Works So Fast
                     </h2>
                     
                     <p class="text-xl text-gray-700 mb-6 leading-relaxed">
@@ -419,38 +427,38 @@ body.bg-white {
                     
                     <div class="space-y-4 mb-8">
                         <div class="flex items-center gap-3 animate-scale-in">
-                            <div class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0">
+                            <div class="w-6 h-6 bg-purple-500 rounded-full flex items-center justify-center flex-shrink-0">
                                 <span class="text-white text-sm font-bold">✓</span>
                             </div>
                             <span class="text-gray-700 font-medium">Stops panic and fear within 30–60 minutes</span>
                         </div>
                         <div class="flex items-center gap-3 animate-scale-in animate-delay-1">
-                            <div class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0">
+                            <div class="w-6 h-6 bg-purple-500 rounded-full flex items-center justify-center flex-shrink-0">
                                 <span class="text-white text-sm font-bold">✓</span>
                             </div>
                             <span class="text-gray-700 font-medium">Promotes restful, uninterrupted sleep</span>
                         </div>
                         <div class="flex items-center gap-3 animate-scale-in animate-delay-2">
-                            <div class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0">
+                            <div class="w-6 h-6 bg-purple-500 rounded-full flex items-center justify-center flex-shrink-0">
                                 <span class="text-white text-sm font-bold">✓</span>
                             </div>
                             <span class="text-gray-700 font-medium">Relieves anxiety, muscle tension, and overthinking</span>
                         </div>
                         <div class="flex items-center gap-3 animate-scale-in animate-delay-3">
-                            <div class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0">
+                            <div class="w-6 h-6 bg-purple-500 rounded-full flex items-center justify-center flex-shrink-0">
                                 <span class="text-white text-sm font-bold">✓</span>
                             </div>
                             <span class="text-gray-700 font-medium">Doctor-approved and clinically proven</span>
                         </div>
                     </div>
                     
-                    <div class="bg-gradient-to-r from-green-50 to-emerald-50 border-l-4 border-green-500 p-6 rounded-lg mb-8">
+                    <div class="bg-gradient-to-r from-purple-50 to-indigo-50 border-l-4 border-purple-500 p-6 rounded-lg mb-8">
                         <p class="text-lg font-semibold text-gray-900">
-                            It's not a vitamin. It's real, fast, medical relief used safely by millions.
+                            <strong>In just 7–14 days</strong>, Diazepam can help <strong class="text-purple-600">reset your sleep rhythm</strong>, so you wake up feeling <strong>refreshed, focused, and human again</strong>.
                         </p>
                     </div>
                     
-                    <button id="customCartBtn2" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                    <button id="customCartBtn2" class="w-full sm:w-auto bg-gradient-to-r from-purple-500 to-indigo-600 hover:from-purple-600 hover:to-indigo-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
                         👍 CLAIM YOUR 50% DISCOUNT
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
@@ -474,17 +482,25 @@ body.bg-white {
                 <!-- Content Side -->
                 <div class="animate-fade-in">
                     <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black text-gray-900 mb-6 font-poppins">
-                        🧠 How Diazepam Works in Your Brain
+                        🔬 How <span class="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Science</span> Backs This Solution
                     </h2>
-
+                    
                     <p class="text-xl text-gray-700 mb-6 leading-relaxed">
-                        Diazepam boosts GABA—your brain’s natural calming chemical. It slows down overactivity, helping you breathe easier and feel still again.
+                        Diazepam enhances the brain's natural calming signals (GABA), slowing overactive neural activity.
                     </p>
                     
                     <div class="bg-white rounded-2xl p-6 shadow-lg border border-blue-200 mb-8">
-                        <p class="text-gray-700">
-                            🧠 Thoughts quiet down<br>🫁 Breathing eases<br>😴 Sleep comes naturally<br>😌 Body finally relaxes
-                        </p>
+                        <div class="flex items-start gap-4">
+                            <div class="w-12 h-12 bg-blue-500 rounded-full flex items-center justify-center flex-shrink-0">
+                                <span class="text-white text-xl">🧠</span>
+                            </div>
+                            <div>
+                                <h3 class="font-bold text-gray-900 mb-2">Natural Sleep Transition</h3>
+                                <p class="text-gray-700">
+                                    Instead of "knocking you out," it helps your brain transition smoothly into deep sleep stages, promoting <strong>natural, restorative rest</strong> without feeling drugged the next day.
+                                </p>
+                            </div>
+                        </div>
                     </div>
                     
                     <div class="grid grid-cols-2 gap-4 mb-8">
@@ -493,12 +509,12 @@ body.bg-white {
                             <div class="text-sm text-gray-600">Minutes to work</div>
                         </div>
                         <div class="bg-white rounded-xl p-4 shadow-md text-center">
-                            <div class="text-2xl font-black text-green-600 mb-1">7-14</div>
+                            <div class="text-2xl font-black text-purple-600 mb-1">7-14</div>
                             <div class="text-sm text-gray-600">Days to reset</div>
                         </div>
                     </div>
                     
-                    <button id="customCartBtn3" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                    <button id="customCartBtn3" class="w-full sm:w-auto bg-gradient-to-r from-purple-500 to-indigo-600 hover:from-purple-600 hover:to-indigo-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
                         👍 CLAIM YOUR 50% DISCOUNT
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
@@ -509,57 +525,57 @@ body.bg-white {
                 
                 <!-- Image Side -->
                 <div class="animate-slide-in-right">
-                    <img src="https://tharavix.com/wp-content/uploads/2025/04/GIF-3-2.gif" alt="How Diazepam works" class="w-full rounded-3xl shadow-2xl border-4 border-blue-200">
+                    <img src="https://tharavix.com/wp-content/uploads/2025/04/GIF-3-2.gif" alt="Science Behind Diazepam" class="w-full rounded-3xl shadow-2xl border-4 border-blue-200">
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Benefits Showcase -->
-    <section class="py-16 bg-gradient-to-br from-emerald-50 to-green-50">
+    <section class="py-16 bg-gradient-to-br from-indigo-50 to-purple-50">
         <div class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-12 animate-fade-in">
                 <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black text-gray-900 mb-4 font-poppins">
-                    ✅ Top Benefits of <span class="bg-gradient-to-r from-green-500 to-emerald-600 bg-clip-text text-transparent">Diazepam</span>
+                    ✅ Top Benefits of <span class="bg-gradient-to-r from-purple-500 to-indigo-600 bg-clip-text text-transparent">Diazepam</span>
                 </h2>
-                <div class="w-20 h-1 bg-green-500 mx-auto rounded"></div>
+                <div class="w-20 h-1 bg-purple-500 mx-auto rounded"></div>
             </div>
             
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in border border-green-100">
-                    <div class="text-4xl mb-4 text-center">⚡</div>
-                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Fast-Acting</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">Feel calm within 30–60 minutes</p>
+                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in border border-purple-100">
+                    <div class="text-4xl mb-4 text-center">💤</div>
+                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Fall Asleep Quickly</h3>
+                    <p class="text-gray-600 text-center leading-relaxed">No more tossing and turning for hours</p>
                 </div>
                 
-                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-1 border border-green-100">
-                    <div class="text-4xl mb-4 text-center">😌</div>
-                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Stops Panic</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">Block spirals before they begin</p>
+                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-1 border border-purple-100">
+                    <div class="text-4xl mb-4 text-center">🌙</div>
+                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Stay Asleep All Night</h3>
+                    <p class="text-gray-600 text-center leading-relaxed">Fewer disturbances and wake-ups</p>
                 </div>
                 
-                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-2 border border-green-100">
-                    <div class="text-4xl mb-4 text-center">🛏️</div>
-                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Sleep Better</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">Fall asleep and stay asleep</p>
+                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-2 border border-purple-100">
+                    <div class="text-4xl mb-4 text-center">☀️</div>
+                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Wake Up Refreshed</h3>
+                    <p class="text-gray-600 text-center leading-relaxed">Say goodbye to morning grogginess</p>
                 </div>
                 
-                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-3 border border-green-100">
-                    <div class="text-4xl mb-4 text-center">💪</div>
-                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Eases Tension</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">Muscle and nerve relaxation</p>
-                </div>
-                
-                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-4 border border-green-100">
-                    <div class="text-4xl mb-4 text-center">👨‍⚕️</div>
-                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Doctor-Recommended</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">Trusted worldwide for 60+ years</p>
-                </div>
-                
-                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-5 border border-green-100">
+                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-3 border border-purple-100">
                     <div class="text-4xl mb-4 text-center">🔄</div>
                     <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Short-Term Reset</h3>
-                    <p class="text-gray-600 text-center leading-relaxed">Just 7–14 days use</p>
+                    <p class="text-gray-600 text-center leading-relaxed">Just 7–14 days to reboot your rhythm</p>
+                </div>
+                
+                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-4 border border-purple-100">
+                    <div class="text-4xl mb-4 text-center">👨‍⚕️</div>
+                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Doctor-Recommended</h3>
+                    <p class="text-gray-600 text-center leading-relaxed">Trusted by medical professionals for years</p>
+                </div>
+                
+                <div class="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 animate-scale-in animate-delay-5 border border-purple-100">
+                    <div class="text-4xl mb-4 text-center">⚡</div>
+                    <h3 class="font-bold text-gray-900 text-lg mb-3 text-center">Fast-Acting Formula</h3>
+                    <p class="text-gray-600 text-center leading-relaxed">Feel the effects within 30 minutes</p>
                 </div>
             </div>
         </div>
@@ -570,10 +586,10 @@ body.bg-white {
         <div class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-12 sm:mb-16">
                 <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-slate-900 mb-4 sm:mb-6 px-4">
-                    Real People. <span class="text-blue-600">Real Calm.</span>
+                    Real People. <span class="text-blue-600">Real Results.</span>
                 </h2>
                 <p class="text-lg sm:text-xl text-slate-600 max-w-3xl mx-auto px-4">
-                    Thousands have regained peace of mind with Diazepam. Here's what they're saying:
+                    Thousands of people have already transformed their sleep with Diazepam. Here's what they're saying:
                 </p>
             </div>
 
@@ -628,7 +644,7 @@ body.bg-white {
                                             <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
                                         </svg>
                                     </div>
-                                    <span class="bg-emerald-100 text-emerald-700 px-2 py-1 rounded text-xs font-semibold ml-2">
+                                    <span class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded text-xs font-semibold ml-2">
                                         ✓ Verified Purchase
                                     </span>
                                 </div>
@@ -669,7 +685,7 @@ body.bg-white {
                                             <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
                                         </svg>
                                     </div>
-                                    <span class="bg-emerald-100 text-emerald-700 px-2 py-1 rounded text-xs font-semibold ml-2">
+                                    <span class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded text-xs font-semibold ml-2">
                                         ✓ Verified Purchase
                                     </span>
                                 </div>
@@ -710,7 +726,7 @@ body.bg-white {
                                             <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
                                         </svg>
                                     </div>
-                                    <span class="bg-emerald-100 text-emerald-700 px-2 py-1 rounded text-xs font-semibold ml-2">
+                                    <span class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded text-xs font-semibold ml-2">
                                         ✓ Verified Purchase
                                     </span>
                                 </div>
@@ -810,7 +826,7 @@ body.bg-white {
     <section class="py-12">
         <div class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="bg-white rounded-xl shadow-lg p-8 text-center animate-fade-in">
-                <img src="https://tharavix.com/wp-content/uploads/2025/04/di6.png" alt="Order Diazepam" class="w-full max-w-2xl mx-auto mb-8 rounded-xl border-4 border-[#7e9469] hover:scale-105 transition-transform duration-300">
+                <img src="https://tharavix.com/wp-content/uploads/2025/04/di6.png" alt="Limited offer" class="w-full max-w-2xl mx-auto mb-8 rounded-xl border-4 border-[#7e9469] hover:scale-105 transition-transform duration-300">
                 
                 <h2 class="text-3xl sm:text-4xl font-black text-gray-900 mb-6 font-poppins">
                     LIMITED TIME OFFER
@@ -839,7 +855,7 @@ body.bg-white {
                     </li>
                 </ul>
                 
-                <button id="customCartBtn4" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                <button id="customCartBtn4" class="bg-gradient-to-r from-purple-500 to-indigo-600 hover:from-purple-600 hover:to-indigo-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
                     👍 ORDER NOW 50% OFF DIAZEPAM
                 </button>
                 
@@ -939,15 +955,15 @@ body.bg-white {
                     <h3 class="font-bold text-slate-900 text-lg sm:text-xl mb-3 sm:mb-4">Why Choose Our Service?</h3>
                     <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-4 text-sm">
                         <div class="flex items-center justify-center sm:justify-start gap-2">
-                            <div class="w-2 h-2 bg-emerald-500 rounded-full flex-shrink-0"></div>
+                            <div class="w-2 h-2 bg-indigo-500 rounded-full flex-shrink-0"></div>
                             <span class="text-slate-600">No prescription needed</span>
                         </div>
                         <div class="flex items-center justify-center sm:justify-start gap-2">
-                            <div class="w-2 h-2 bg-emerald-500 rounded-full flex-shrink-0"></div>
+                            <div class="w-2 h-2 bg-indigo-500 rounded-full flex-shrink-0"></div>
                             <span class="text-slate-600">Completely discreet</span>
                         </div>
                         <div class="flex items-center justify-center sm:justify-start gap-2">
-                            <div class="w-2 h-2 bg-emerald-500 rounded-full flex-shrink-0"></div>
+                            <div class="w-2 h-2 bg-indigo-500 rounded-full flex-shrink-0"></div>
                             <span class="text-slate-600">Money-back guarantee</span>
                         </div>
                     </div>
@@ -957,11 +973,11 @@ body.bg-white {
     </section>
 
     <!-- Security Section -->
-    <section class="py-12 sm:py-16 lg:py-20 bg-emerald-50">
+    <section class="py-12 sm:py-16 lg:py-20 bg-indigo-50">
         <div class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-12 sm:mb-16">
                 <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-slate-900 mb-4 sm:mb-6 px-4">
-                    Your <span class="text-emerald-600">Security</span> Matters
+                    Your <span class="text-indigo-600">Security</span> Matters
                 </h2>
                 <p class="text-lg sm:text-xl text-slate-600 max-w-3xl mx-auto px-4">
                     We understand that privacy and security are paramount when ordering health products online. That's why we've implemented industry-leading protections.
@@ -969,9 +985,9 @@ body.bg-white {
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 mb-12 sm:mb-16">
-                <div class="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm border border-emerald-100">
+                <div class="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm border border-indigo-100">
                     <div class="flex items-start gap-3 sm:gap-4">
-                        <div class="w-10 h-10 sm:w-12 sm:h-12 bg-emerald-500 rounded-lg sm:rounded-xl flex items-center justify-center flex-shrink-0">
+                        <div class="w-10 h-10 sm:w-12 sm:h-12 bg-indigo-500 rounded-lg sm:rounded-xl flex items-center justify-center flex-shrink-0">
                             <svg class="w-5 h-5 sm:w-6 sm:h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/>
                             </svg>
@@ -983,9 +999,9 @@ body.bg-white {
                     </div>
                 </div>
                 
-                <div class="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm border border-emerald-100">
+                <div class="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm border border-indigo-100">
                     <div class="flex items-start gap-3 sm:gap-4">
-                        <div class="w-10 h-10 sm:w-12 sm:h-12 bg-emerald-500 rounded-lg sm:rounded-xl flex items-center justify-center flex-shrink-0">
+                        <div class="w-10 h-10 sm:w-12 sm:h-12 bg-indigo-500 rounded-lg sm:rounded-xl flex items-center justify-center flex-shrink-0">
                             <svg class="w-5 h-5 sm:w-6 sm:h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.878 9.878L3 3m6.878 6.878L21 21"/>
                             </svg>
@@ -997,9 +1013,9 @@ body.bg-white {
                     </div>
                 </div>
                 
-                <div class="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm border border-emerald-100">
+                <div class="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm border border-indigo-100">
                     <div class="flex items-start gap-3 sm:gap-4">
-                        <div class="w-10 h-10 sm:w-12 sm:h-12 bg-emerald-500 rounded-lg sm:rounded-xl flex items-center justify-center flex-shrink-0">
+                        <div class="w-10 h-10 sm:w-12 sm:h-12 bg-indigo-500 rounded-lg sm:rounded-xl flex items-center justify-center flex-shrink-0">
                             <svg class="w-5 h-5 sm:w-6 sm:h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"/>
                             </svg>
@@ -1011,9 +1027,9 @@ body.bg-white {
                     </div>
                 </div>
                 
-                <div class="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm border border-emerald-100">
+                <div class="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm border border-indigo-100">
                     <div class="flex items-start gap-3 sm:gap-4">
-                        <div class="w-10 h-10 sm:w-12 sm:h-12 bg-emerald-500 rounded-lg sm:rounded-xl flex items-center justify-center flex-shrink-0">
+                        <div class="w-10 h-10 sm:w-12 sm:h-12 bg-indigo-500 rounded-lg sm:rounded-xl flex items-center justify-center flex-shrink-0">
                             <svg class="w-5 h-5 sm:w-6 sm:h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z"/>
                             </svg>
@@ -1026,22 +1042,22 @@ body.bg-white {
                 </div>
             </div>
 
-            <div class="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm border border-emerald-100 text-center">
+            <div class="bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm border border-indigo-100 text-center">
                 <h3 class="font-bold text-slate-900 text-lg sm:text-xl mb-3 sm:mb-4">Our Guarantee to You</h3>
                 <p class="text-slate-600 mb-4 sm:mb-6 max-w-2xl mx-auto text-sm sm:text-base leading-relaxed">
                     If you're not completely satisfied with your results, simply return the unused portion within 60 days for a full refund. No questions asked.
                 </p>
                 <div class="flex flex-wrap justify-center gap-4 sm:gap-8 text-xs sm:text-sm">
                     <div class="flex items-center gap-2">
-                        <div class="w-2 h-2 bg-emerald-500 rounded-full"></div>
+                        <div class="w-2 h-2 bg-indigo-500 rounded-full"></div>
                         <span class="text-slate-600">60-day money back</span>
                     </div>
                     <div class="flex items-center gap-2">
-                        <div class="w-2 h-2 bg-emerald-500 rounded-full"></div>
+                        <div class="w-2 h-2 bg-indigo-500 rounded-full"></div>
                         <span class="text-slate-600">Free return shipping</span>
                     </div>
                     <div class="flex items-center gap-2">
-                        <div class="w-2 h-2 bg-emerald-500 rounded-full"></div>
+                        <div class="w-2 h-2 bg-indigo-500 rounded-full"></div>
                         <span class="text-slate-600">No restocking fees</span>
                     </div>
                 </div>
@@ -1055,7 +1071,7 @@ body.bg-white {
             <div class="flex flex-col lg:flex-row items-start gap-8 lg:gap-12">
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 animate-fade-in">
-                    <img src="https://tharavix.com/wp-content/uploads/2025/04/di2.webp" alt="Diazepam safety" class="w-full rounded-xl border-4 border-[#7e9469] shadow-lg hover:scale-105 transition-transform duration-300">
+                    <img src="https://tharavix.com/wp-content/uploads/2025/04/di2.webp" alt="Safety info" class="w-full rounded-xl border-4 border-[#7e9469] shadow-lg hover:scale-105 transition-transform duration-300">
                 </div>
                 
                 <!-- Content -->
@@ -1087,7 +1103,7 @@ body.bg-white {
                         </li>
                     </ul>
                     
-                    <button id="customCartBtn5" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                    <button id="customCartBtn5" class="bg-gradient-to-r from-purple-500 to-indigo-600 hover:from-purple-600 hover:to-indigo-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
                         👍 CLAIM YOUR 50% DISCOUNT
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
@@ -1109,16 +1125,15 @@ body.bg-white {
         <div class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto animate-fade-in">
                 <h2 class="text-3xl sm:text-4xl font-black text-gray-900 mb-6 font-poppins">
-                    🕒 Don’t Wait For Your Next Breakdown
+                    Stop Letting Sleepless Nights Steal Your Energy, Mood, and Focus
                 </h2>
-
-                <p class="text-xl text-gray-700 mb-4 leading-relaxed">
-                    You’ve been pretending everything’s fine. Powering through. But the panic attacks and restless nights are real.
+                
+                <p class="text-xl text-gray-700 mb-8 leading-relaxed">
+                    Diazepam isn't a magic pill it's a <strong>scientifically backed, doctor-recommended solution</strong> that's helped thousands finally get real sleep. You deserve real rest.
                 </p>
-                <p class="text-xl text-gray-700 mb-8 leading-relaxed"><strong>Diazepam helped me feel human again. It can help you too.</strong></p>
-
-                <button id="customCartBtn6" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
-                    😉 Try Diazepam Now 50% OFF
+                
+                <button id="customCartBtn6" class="bg-gradient-to-r from-purple-500 to-indigo-600 hover:from-purple-600 hover:to-indigo-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                    😉 Give Diazepam a Try
                 </button>
             </div>
         </div>
@@ -1129,78 +1144,44 @@ body.bg-white {
         <div class="container mx-auto max-w-4xl">
             <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
                 <div class="text-center sm:text-left">
-                    <p class="font-bold text-gray-900">Ready to feel calm again?</p>
+                    <p class="font-bold text-gray-900">Ready for better sleep?</p>
                     <p class="text-sm text-gray-600">Limited time: 50% OFF + Free shipping</p>
                 </div>
-                <button id="customCartBtn7" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                <button id="customCartBtn7" class="w-full sm:w-auto bg-gradient-to-r from-purple-500 to-indigo-600 hover:from-purple-600 hover:to-indigo-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
                     🌙 Get Diazepam Now €29.95
                 </button>
             </div>
         </div>
-    <button id="customCartBtn8" style="display:none;"></button>
-    <button id="customCartBtn9" style="display:none;"></button>
+    </div>
+
+
 <script>
-
-	document.getElementById('customCartBtn').addEventListener('click', function() {
+document.getElementById('customCartBtn').addEventListener('click', function(){
     getCartItemZopclone();
 });
-	
-		document.getElementById('customCartBtn1').addEventListener('click', function() {
+document.getElementById('customCartBtn1').addEventListener('click', function(){
     getCartItemZopclone();
 });
-			document.getElementById('customCartBtn1').addEventListener('click', function() {
+document.getElementById('customCartBtn2').addEventListener('click', function(){
     getCartItemZopclone();
 });
-			document.getElementById('customCartBtn2').addEventListener('click', function() {
+document.getElementById('customCartBtn3').addEventListener('click', function(){
     getCartItemZopclone();
 });
-			document.getElementById('customCartBtn3').addEventListener('click', function() {
+document.getElementById('customCartBtn4').addEventListener('click', function(){
     getCartItemZopclone();
 });
-			document.getElementById('customCartBtn4').addEventListener('click', function() {
+document.getElementById('customCartBtn5').addEventListener('click', function(){
     getCartItemZopclone();
 });
-
-			document.getElementById('customCartBtn5').addEventListener('click', function() {
+document.getElementById('customCartBtn6').addEventListener('click', function(){
     getCartItemZopclone();
 });
-	
-			document.getElementById('customCartBtn6').addEventListener('click', function() {
+document.getElementById('customCartBtn7').addEventListener('click', function(){
     getCartItemZopclone();
 });
-	
-			document.getElementById('customCartBtn7').addEventListener('click', function() {
-    getCartItemZopclone();
-});
-	
-	document.getElementById('customCartBtn8').addEventListener('click', function() {
-    getCartItemZopclone();
-});
-	document.getElementById('customCartBtn9').addEventListener('click', function() {
-    getCartItemZopclone();
-});
-
-// Floating CTA functionality
-function initFloatingCTA() {
-    const floatingCTA = document.getElementById('floatingCTA');
-    let isVisible = false;
-
-    function toggleVisibility() {
-        if (window.pageYOffset > 300 && !isVisible) {
-            floatingCTA.classList.remove('translate-y-full');
-            isVisible = true;
-        } else if (window.pageYOffset <= 300 && isVisible) {
-            floatingCTA.classList.add('translate-y-full');
-            isVisible = false;
-        }
-    }
-
-    window.addEventListener('scroll', toggleVisibility);
-}
-
 
 function getCartItemZopclone() {
-    // Define the hardcoded cart data as provided
     var cartData = [{
         id: "Diazepam1",
         name: "Diazepam",
@@ -1210,29 +1191,33 @@ function getCartItemZopclone() {
         variation: "Quantity1",
         websitename: "DiazepamFunnel"
     }];
-
-    // Log the data for debugging
     console.log("Sending the following cart data:", cartData);
-
-    // Prepare the data for the API call
     var queryParams = new URLSearchParams();
     queryParams.set('cartData', JSON.stringify(cartData));
-
-    // Construct the URL for the API call
     var apiUrl = 'https://tharaviix.com/api.php?' + queryParams.toString();
-
-    // Redirect to the API URL with the provided details
     console.log("Redirecting to API with URL:", apiUrl);
     window.location.href = apiUrl;
 }
 
-// Initialize floating CTA when DOM is ready
+function initFloatingCTA() {
+    const floatingCTA = document.getElementById('floatingCTA');
+    let isVisible = false;
+    function toggleVisibility() {
+        if (window.pageYOffset > 300 && !isVisible) {
+            floatingCTA.classList.remove('translate-y-full');
+            isVisible = true;
+        } else if (window.pageYOffset <= 300 && isVisible) {
+            floatingCTA.classList.add('translate-y-full');
+            isVisible = false;
+        }
+    }
+    window.addEventListener('scroll', toggleVisibility);
+}
+
 document.addEventListener('DOMContentLoaded', function() {
     initFloatingCTA();
 });
-
 </script>
-
 </body>
 <?php get_footer(); ?>
 </html>

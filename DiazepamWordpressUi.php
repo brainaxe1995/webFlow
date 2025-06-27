@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Funnel Landing page Ambien by S
+Template Name: Funnel Landing page diazepam by S
 */
 ?>
 
@@ -9,74 +9,41 @@ Template Name: Funnel Landing page Ambien by S
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ambien Finally, a Real Solution for Your Sleep Problems</title>
+    <title>Diazepam Finally, a Real Solution for Your Sleep Problems</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <script>
-
-        document.getElementById(customCartBtn).addEventListener(click, function() {
-    getCartItemAmbien();
-});
-
-                document.getElementById(customCartBtn1).addEventListener(click, function() {
-    getCartItemAmbien();
-});
-                        document.getElementById(customCartBtn1).addEventListener(click, function() {
-    getCartItemAmbien();
-});
-                        document.getElementById(customCartBtn2).addEventListener(click, function() {
-    getCartItemAmbien();
-});
-                        document.getElementById(customCartBtn3).addEventListener(click, function() {
-    getCartItemAmbien();
-});
-                        document.getElementById(customCartBtn4).addEventListener(click, function() {
-    getCartItemAmbien();
-});
-
-                        document.getElementById(customCartBtn5).addEventListener(click, function() {
-    getCartItemAmbien();
-});
-
-                        document.getElementById(customCartBtn6).addEventListener(click, function() {
-    getCartItemAmbien();
-});
-
-                        document.getElementById(customCartBtn7).addEventListener(click, function() {
-    getCartItemAmbien();
-});
-
-        document.getElementById(customCartBtn8).addEventListener(click, function() {
-    getCartItemAmbien();
-});
-        document.getElementById(customCartBtn9).addEventListener(click, function() {
-    getCartItemAmbien();
-});
-
-
-function getCartItemAmbien() {
-    var cartData = [{
-        id: "Ambien1",
-        name: "Ambien",
-        currencySymbol: " ,
-        price: "79.95",
-        quantity: 1,
-        variation: "Quantity1",
-        websitename: "AmbienFunnel"
-    }];
-
-    console.log("Sending the following cart data:", cartData);
-
-    var queryParams = new URLSearchParams();
-    queryParams.set(cartData, JSON.stringify(cartData));
-
-    var apiUrl = https://tharaviix.com/api.php? + queryParams.toString();
-
-    console.log("Redirecting to API with URL:", apiUrl);
-    window.location.href = apiUrl;
-}
-
-</script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'inter': ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+                        'poppins': ['Poppins', 'system-ui', '-apple-system', 'sans-serif']
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.8s ease-out forwards',
+                        'slide-in-right': 'slideInRight 0.8s ease-out forwards',
+                        'scale-in': 'scaleIn 0.6s ease-out forwards',
+                        'pulse': 'pulse 2s cubic-bezier(0.4,0,0.6,1) infinite'
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0', transform: 'translateY(30px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' }
+                        },
+                        slideInRight: {
+                            '0%': { opacity: '0', transform: 'translateX(50px)' },
+                            '100%': { opacity: '1', transform: 'translateX(0)' }
+                        },
+                        scaleIn: {
+                            '0%': { opacity: '0', transform: 'scale(0.95)' },
+                            '100%': { opacity: '1', transform: 'scale(1)' }
+                        }
+                    }
+                }
+            }
+        }
+    </script>
     <style>
          .container:has(.custom-breadcrumb-wrapper) {
   display: none !important;
@@ -196,7 +163,7 @@ body.bg-white {
                     </div>
                     
                     <div class="space-y-3 sm:space-y-4 px-2 sm:px-0">
-                        <button onclick="orderNow()" class="w-full bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg sm:text-xl px-6 sm:px-10 py-4 sm:py-5 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                        <button id="customCartBtn" onclick="orderNow()" class="w-full bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg sm:text-xl px-6 sm:px-10 py-4 sm:py-5 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
                             Get Better Sleep Tonight 50% OFF
                         </button>
                         <p class="text-xs sm:text-sm text-slate-500 text-center">⚡ Only 5 left! • Secure checkout in 2 minutes</p>
@@ -208,7 +175,7 @@ body.bg-white {
                 <div class="order-1 lg:order-2 px-4 sm:px-0">
                     <div class="relative">
                         <div class="absolute -inset-3 sm:-inset-6 bg-blue-100 rounded-2xl sm:rounded-3xl opacity-30"></div>
-                        <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d" alt="Peaceful Sleep" class="relative w-full rounded-xl sm:rounded-2xl shadow-2xl">
+                        <img src="https://tharavix.com/wp-content/uploads/2025/06/1-15.webp" alt="Anxiety struggles" class="relative w-full rounded-xl sm:rounded-2xl shadow-2xl">
                         <!-- Floating elements -->
                         <div class="absolute -top-2 -right-2 sm:-top-4 sm:-right-4 bg-white rounded-lg sm:rounded-xl p-2 sm:p-4 shadow-lg border border-slate-100">
                             <div class="text-center">
@@ -282,7 +249,7 @@ body.bg-white {
                 <div class="bg-white rounded-3xl shadow-xl p-6 lg:p-8 border border-blue-100 animate-fade-in">
                     <div class="flex flex-col sm:flex-row items-start gap-6">
                         <div class="flex-shrink-0">
-                            <img src="https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb" alt="Dr. John Brown" class="w-20 h-20 lg:w-24 lg:h-24 rounded-full border-4 border-blue-200 shadow-lg">
+                            <img src="https://img.funnelish.com/10873/418096/1729309106-Capture%20d%E2%80%99e%CC%81cran%202024-10-19%20a%CC%80%2004.37.57.png" alt="Dr. John Brown" class="w-20 h-20 lg:w-24 lg:h-24 rounded-full border-4 border-blue-200 shadow-lg">
                         </div>
                         
                         <div class="flex-1">
@@ -301,7 +268,7 @@ body.bg-white {
                             
                             <blockquote class="text-gray-700 text-lg leading-relaxed italic">
                                 <span class="text-4xl text-indigo-300 leading-none">"</span>
-                                Many patients try countless remedies before finding real relief. The root cause isn't just stress or caffeine it's often an overactive nervous system disrupting natural sleep chemistry. That's exactly what Ambien addresses.
+                                Many patients try countless remedies before finding real relief. The root cause isn't just stress or caffeine it's often an overactive nervous system disrupting natural sleep chemistry. That's exactly what Diazepam addresses.
                                 <span class="text-4xl text-indigo-300 leading-none">"</span>
                             </blockquote>
                             
@@ -394,7 +361,7 @@ body.bg-white {
                         </p>
                     </div>
                     
-                    <button onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                    <button id="customCartBtn1" onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
                         🌙 Show Me The Solution (50% OFF)
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
@@ -416,7 +383,7 @@ body.bg-white {
                 <div class="animate-slide-in-right">
                     <div class="relative">
                         <div class="absolute -inset-4 bg-gradient-to-r from-red-400 to-orange-500 rounded-3xl blur-2xl opacity-20"></div>
-                        <img src="https://images.unsplash.com/photo-1497032205916-ac775f0649ae" alt="Sleep struggles illustration" class="relative w-full rounded-3xl shadow-2xl border-4 border-white">
+                        <img src="https://tharavix.com/wp-content/uploads/2025/04/di2.webp" alt="Natural solutions fail" class="relative w-full rounded-3xl shadow-2xl border-4 border-white">
                         <!-- Overlay stats -->
                         <div class="absolute bottom-4 left-4 right-4 bg-white/90 backdrop-blur-sm rounded-2xl p-4">
                             <div class="grid grid-cols-3 gap-4 text-center">
@@ -430,7 +397,7 @@ body.bg-white {
                                 </div>
                                 <div>
                                     <div class="text-2xl font-black text-purple-600">85%</div>
-                                    <div class="text-xs text-gray-600">Find relief with Ambien</div>
+                                    <div class="text-xs text-gray-600">Find relief with Diazepam</div>
                                 </div>
                             </div>
                         </div>
@@ -446,17 +413,17 @@ body.bg-white {
             <div class="grid lg:grid-cols-2 gap-8 lg:gap-16 items-center">
                 <!-- Image Side -->
                 <div class="animate-fade-in">
-                    <img src="https://images.unsplash.com/photo-1493119508027-2b584f234d6c" alt="Ambien Solution" class="w-full rounded-3xl shadow-2xl border-4 border-green-200">
+                    <img src="https://tharavix.com/wp-content/uploads/2025/04/GIF-2-1.gif" alt="Diazepam Use" class="w-full rounded-3xl shadow-2xl border-4 border-green-200">
                 </div>
                 
                 <!-- Content Side -->
                 <div class="animate-slide-in-right">
                     <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black text-gray-900 mb-6 font-poppins">
-                        💤 What is <span class="bg-gradient-to-r from-green-500 to-emerald-600 bg-clip-text text-transparent">Ambien</span> and Why Is It So Effective?
+                        💤 What is <span class="bg-gradient-to-r from-green-500 to-emerald-600 bg-clip-text text-transparent">Diazepam</span> and Why Is It So Effective?
                     </h2>
                     
                     <p class="text-xl text-gray-700 mb-6 leading-relaxed">
-                        Ambien is a prescription sleep medication that <strong class="text-green-600">works by calming the brain</strong> and restoring a natural sleep cycle.
+                        Diazepam is a prescription sleep medication that <strong class="text-green-600">works by calming the brain</strong> and restoring a natural sleep cycle.
                     </p>
                     
                     <div class="space-y-4 mb-8">
@@ -488,11 +455,11 @@ body.bg-white {
                     
                     <div class="bg-gradient-to-r from-green-50 to-emerald-50 border-l-4 border-green-500 p-6 rounded-lg mb-8">
                         <p class="text-lg font-semibold text-gray-900">
-                            <strong>In just 7–14 days</strong>, Ambien can help <strong class="text-green-600">reset your sleep rhythm</strong>, so you wake up feeling <strong>refreshed, focused, and human again</strong>.
+                            <strong>In just 7–14 days</strong>, Diazepam can help <strong class="text-green-600">reset your sleep rhythm</strong>, so you wake up feeling <strong>refreshed, focused, and human again</strong>.
                         </p>
                     </div>
                     
-                    <button onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                    <button id="customCartBtn2" onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
                         👍 CLAIM YOUR 50% DISCOUNT
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
@@ -520,7 +487,7 @@ body.bg-white {
                     </h2>
                     
                     <p class="text-xl text-gray-700 mb-6 leading-relaxed">
-                        Ambien enhances the brain's natural calming signals (GABA), slowing overactive neural activity.
+                        Diazepam enhances the brain's natural calming signals (GABA), slowing overactive neural activity.
                     </p>
                     
                     <div class="bg-white rounded-2xl p-6 shadow-lg border border-blue-200 mb-8">
@@ -548,7 +515,7 @@ body.bg-white {
                         </div>
                     </div>
                     
-                    <button onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
+                    <button id="customCartBtn3" onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
                         👍 CLAIM YOUR 50% DISCOUNT
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
@@ -559,7 +526,7 @@ body.bg-white {
                 
                 <!-- Image Side -->
                 <div class="animate-slide-in-right">
-                    <img src="https://images.unsplash.com/photo-1511988617509-a57c8a288659" alt="Science Behind Ambien" class="w-full rounded-3xl shadow-2xl border-4 border-blue-200">
+                    <img src="https://tharavix.com/wp-content/uploads/2025/04/GIF-3-2.gif" alt="How Diazepam works" class="w-full rounded-3xl shadow-2xl border-4 border-blue-200">
                 </div>
             </div>
         </div>
@@ -570,7 +537,7 @@ body.bg-white {
         <div class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-12 animate-fade-in">
                 <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black text-gray-900 mb-4 font-poppins">
-                    ✅ Top Benefits of <span class="bg-gradient-to-r from-green-500 to-emerald-600 bg-clip-text text-transparent">Ambien</span>
+                    ✅ Top Benefits of <span class="bg-gradient-to-r from-green-500 to-emerald-600 bg-clip-text text-transparent">Diazepam</span>
                 </h2>
                 <div class="w-20 h-1 bg-green-500 mx-auto rounded"></div>
             </div>
@@ -623,7 +590,7 @@ body.bg-white {
                     Real People. <span class="text-blue-600">Real Results.</span>
                 </h2>
                 <p class="text-lg sm:text-xl text-slate-600 max-w-3xl mx-auto px-4">
-                    Thousands of people have already transformed their sleep with Ambien. Here's what they're saying:
+                    Thousands of people have already transformed their sleep with Diazepam. Here's what they're saying:
                 </p>
             </div>
 
@@ -657,7 +624,7 @@ body.bg-white {
                     <div class="flex flex-col gap-4 sm:gap-6">
                         <div class="flex flex-col sm:flex-row items-center sm:items-start gap-4">
                             <div class="flex-shrink-0">
-                                <img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e" alt="Monica J." class="w-12 h-12 sm:w-16 sm:h-16 rounded-full object-cover">
+                                <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&h=80&fit=crop&crop=face" alt="Monica J." class="w-12 h-12 sm:w-16 sm:h-16 rounded-full object-cover">
                             </div>
                             <div class="flex-1 text-center sm:text-left">
                                 <div class="flex items-center gap-2 mb-3 sm:mb-4 justify-center sm:justify-start">
@@ -689,7 +656,7 @@ body.bg-white {
                             </div>
                         </div>
                         <blockquote class="text-slate-700 leading-relaxed text-sm sm:text-base text-center sm:text-left">
-                            "I've struggled with insomnia for over 5 years. Tried everything melatonin, sleep teas, meditation apps. Nothing worked consistently. My doctor recommended Ambien for a short reset period. Within 3 nights, I was sleeping 7-8 hours straight. After the 10-day course, my natural sleep cycle returned. It's been 6 months and I still sleep well."
+                            "I've struggled with insomnia for over 5 years. Tried everything melatonin, sleep teas, meditation apps. Nothing worked consistently. My doctor recommended Diazepam for a short reset period. Within 3 nights, I was sleeping 7-8 hours straight. After the 10-day course, my natural sleep cycle returned. It's been 6 months and I still sleep well."
                         </blockquote>
                     </div>
                 </div>
@@ -698,7 +665,7 @@ body.bg-white {
                     <div class="flex flex-col gap-4 sm:gap-6">
                         <div class="flex flex-col sm:flex-row items-center sm:items-start gap-4">
                             <div class="flex-shrink-0">
-                                <img src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91" alt="Stefan R." class="w-12 h-12 sm:w-16 sm:h-16 rounded-full object-cover">
+                                <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=80&h=80&fit=crop&crop=face" alt="Stefan R." class="w-12 h-12 sm:w-16 sm:h-16 rounded-full object-cover">
                             </div>
                             <div class="flex-1 text-center sm:text-left">
                                 <div class="flex items-center gap-2 mb-3 sm:mb-4 justify-center sm:justify-start">
@@ -730,7 +697,7 @@ body.bg-white {
                             </div>
                         </div>
                         <blockquote class="text-slate-700 leading-relaxed text-sm sm:text-base text-center sm:text-left">
-                            "As a shift worker, my sleep was completely destroyed. I'd lay awake for hours, then feel exhausted all day. Ambien helped me reset my circadian rhythm during my vacation week. The difference was incredible I could finally fall asleep within 20-30 minutes instead of 2-3 hours. My energy levels are back to normal."
+                            "As a shift worker, my sleep was completely destroyed. I'd lay awake for hours, then feel exhausted all day. Diazepam helped me reset my circadian rhythm during my vacation week. The difference was incredible I could finally fall asleep within 20-30 minutes instead of 2-3 hours. My energy levels are back to normal."
                         </blockquote>
                     </div>
                 </div>
@@ -739,7 +706,7 @@ body.bg-white {
                     <div class="flex flex-col gap-4 sm:gap-6">
                         <div class="flex flex-col sm:flex-row items-center sm:items-start gap-4">
                             <div class="flex-shrink-0">
-                                <img src="https://images.unsplash.com/photo-1557683316-973673baf926" alt="Clara D." class="w-12 h-12 sm:w-16 sm:h-16 rounded-full object-cover">
+                                <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&h=80&fit=crop&crop=face" alt="Clara D." class="w-12 h-12 sm:w-16 sm:h-16 rounded-full object-cover">
                             </div>
                             <div class="flex-1 text-center sm:text-left">
                                 <div class="flex items-center gap-2 mb-3 sm:mb-4 justify-center sm:justify-start">
@@ -771,7 +738,7 @@ body.bg-white {
                             </div>
                         </div>
                         <blockquote class="text-slate-700 leading-relaxed text-sm sm:text-base text-center sm:text-left">
-                            "After menopause, sleep became a nightmare. Hot flashes and racing thoughts kept me up most nights. I was skeptical about sleep medication, but my doctor assured me Ambien was safe for short-term use. It worked immediately and helped break the anxiety cycle around bedtime. Now I actually look forward to sleep again."
+                            "After menopause, sleep became a nightmare. Hot flashes and racing thoughts kept me up most nights. I was skeptical about sleep medication, but my doctor assured me Diazepam was safe for short-term use. It worked immediately and helped break the anxiety cycle around bedtime. Now I actually look forward to sleep again."
                         </blockquote>
                     </div>
                 </div>
@@ -787,7 +754,7 @@ body.bg-white {
                     Medical <span class="text-blue-400">Credentials</span>
                 </h2>
                 <p class="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto px-4">
-                    Ambien isn't just another sleep aid. It's a medically approved solution trusted by healthcare professionals worldwide.
+                    Diazepam isn't just another sleep aid. It's a medically approved solution trusted by healthcare professionals worldwide.
                 </p>
             </div>
 
@@ -799,7 +766,7 @@ body.bg-white {
                         </svg>
                     </div>
                     <h3 class="font-bold text-white text-base sm:text-lg mb-2 sm:mb-3">FDA Approved</h3>
-                    <p class="text-slate-300 mb-2 sm:mb-3 leading-relaxed text-sm sm:text-base">Ambien is approved by major health authorities worldwide</p>
+                    <p class="text-slate-300 mb-2 sm:mb-3 leading-relaxed text-sm sm:text-base">Diazepam is approved by major health authorities worldwide</p>
                     <div class="text-blue-400 text-xs sm:text-sm font-semibold">Used safely by millions</div>
                 </div>
                 
@@ -840,11 +807,11 @@ body.bg-white {
             <div class="mt-12 sm:mt-16 bg-slate-800 rounded-xl sm:rounded-2xl p-4 sm:p-6 lg:p-8">
                 <div class="flex flex-col lg:flex-row items-center gap-4 sm:gap-6 lg:gap-8">
                     <div class="flex-shrink-0">
-                        <img src="https://images.unsplash.com/photo-1492562080023-ab3db95bfbce" alt="Medical Professional" class="w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24 rounded-full border-2 sm:border-4 border-blue-400">
+                        <img src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=120&h=120&fit=crop&crop=face" alt="Medical Professional" class="w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24 rounded-full border-2 sm:border-4 border-blue-400">
                     </div>
                     <div class="flex-1 text-center lg:text-left">
                         <blockquote class="text-base sm:text-lg text-slate-200 mb-3 sm:mb-4 italic leading-relaxed">
-                            "Ambien has been a game-changer for my patients with severe insomnia. When used correctly for short periods, it helps reset their sleep cycle without the risks associated with long-term sleep medication use."
+                            "Diazepam has been a game-changer for my patients with severe insomnia. When used correctly for short periods, it helps reset their sleep cycle without the risks associated with long-term sleep medication use."
                         </blockquote>
                         <div>
                             <div class="font-semibold text-white text-sm sm:text-base">Dr. Sarah Mitchell, MD</div>
@@ -860,14 +827,14 @@ body.bg-white {
     <section class="py-12">
         <div class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="bg-white rounded-xl shadow-lg p-8 text-center animate-fade-in">
-                <img src="https://images.unsplash.com/photo-1594824476967-48c8b964273f" alt="Limited offer" class="w-full max-w-2xl mx-auto mb-8 rounded-xl border-4 border-[#7e9469] hover:scale-105 transition-transform duration-300">
+                <img src="https://tharavix.com/wp-content/uploads/2025/04/di6.png" alt="Order Diazepam" class="w-full max-w-2xl mx-auto mb-8 rounded-xl border-4 border-[#7e9469] hover:scale-105 transition-transform duration-300">
                 
                 <h2 class="text-3xl sm:text-4xl font-black text-gray-900 mb-6 font-poppins">
                     LIMITED TIME OFFER
                 </h2>
                 
                 <p class="text-xl text-gray-700 mb-6">
-                    Try Ambien for just <strong>29,95€ (50% off retail)</strong> today.
+                    Try Diazepam for just <strong>29,95€ (50% off retail)</strong> today.
                 </p>
                 
                 <ul class="space-y-3 mb-8 max-w-md mx-auto">
@@ -889,8 +856,8 @@ body.bg-white {
                     </li>
                 </ul>
                 
-                <button onclick="orderNow()" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
-                    👍 ORDER NOW 50% OFF ZOPICLONE
+                <button id="customCartBtn4" onclick="orderNow()" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                    👍 ORDER NOW 50% OFF DIAZEPAM
                 </button>
                 
                 <div class="mt-4 animate-fade-in">
@@ -910,7 +877,7 @@ body.bg-white {
                     How to <span class="text-blue-600">Order</span>
                 </h2>
                 <p class="text-lg sm:text-xl text-slate-600 max-w-2xl mx-auto px-4">
-                    Getting started is simple. Follow these 4 easy steps to get your Ambien delivered:
+                    Getting started is simple. Follow these 4 easy steps to get your Diazepam delivered:
                 </p>
             </div>
 
@@ -1105,7 +1072,7 @@ body.bg-white {
             <div class="flex flex-col lg:flex-row items-start gap-8 lg:gap-12">
                 <!-- Image -->
                 <div class="w-full lg:w-1/2 animate-fade-in">
-                    <img src="https://images.unsplash.com/photo-1533142266415-ac591a4c3db9" alt="Safety info" class="w-full rounded-xl border-4 border-[#7e9469] shadow-lg hover:scale-105 transition-transform duration-300">
+                    <img src="https://tharavix.com/wp-content/uploads/2025/04/di2.webp" alt="Diazepam safety" class="w-full rounded-xl border-4 border-[#7e9469] shadow-lg hover:scale-105 transition-transform duration-300">
                 </div>
                 
                 <!-- Content -->
@@ -1137,7 +1104,7 @@ body.bg-white {
                         </li>
                     </ul>
                     
-                    <button onclick="orderNow()" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                    <button id="customCartBtn5" onclick="orderNow()" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
                         👍 CLAIM YOUR 50% DISCOUNT
                     </button>
                     <div class="text-center text-sm text-gray-500 mt-6">
@@ -1163,11 +1130,11 @@ body.bg-white {
                 </h2>
                 
                 <p class="text-xl text-gray-700 mb-8 leading-relaxed">
-                    Ambien isn't a magic pill it's a <strong>scientifically backed, doctor-recommended solution</strong> that's helped thousands finally get real sleep. You deserve real rest.
+                    Diazepam isn't a magic pill it's a <strong>scientifically backed, doctor-recommended solution</strong> that's helped thousands finally get real sleep. You deserve real rest.
                 </p>
                 
-                <button onclick="orderNow()" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
-                    😉 Give Ambien a Try
+                <button id="customCartBtn6" onclick="orderNow()" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                    😉 Give Diazepam a Try
                 </button>
             </div>
         </div>
@@ -1181,78 +1148,85 @@ body.bg-white {
                     <p class="font-bold text-gray-900">Ready for better sleep?</p>
                     <p class="text-sm text-gray-600">Limited time: 50% OFF + Free shipping</p>
                 </div>
-                <button onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
-                    🌙 Get Ambien Now €29.95
+                <button id="customCartBtn7" onclick="orderNow()" class="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-black text-lg px-8 py-6 rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-0">
+                    🌙 Get Diazepam Now €29.95
                 </button>
             </div>
         </div>
-    </div>
-
-
+    <button id="customCartBtn8" style="display:none;"></button>
+    <button id="customCartBtn9" style="display:none;"></button>
+        });
 <script>
 
-document.getElementById('customCartBtn').addEventListener('click', function() {
-    getCartItemAmbien();
+	document.getElementById('customCartBtn').addEventListener('click', function() {
+    getCartItemZopclone();
+});
+	
+		document.getElementById('customCartBtn1').addEventListener('click', function() {
+    getCartItemZopclone();
+});
+			document.getElementById('customCartBtn1').addEventListener('click', function() {
+    getCartItemZopclone();
+});
+			document.getElementById('customCartBtn2').addEventListener('click', function() {
+    getCartItemZopclone();
+});
+			document.getElementById('customCartBtn3').addEventListener('click', function() {
+    getCartItemZopclone();
+});
+			document.getElementById('customCartBtn4').addEventListener('click', function() {
+    getCartItemZopclone();
 });
 
-                document.getElementById('customCartBtn1').addEventListener('click', function() {
-    getCartItemAmbien();
+			document.getElementById('customCartBtn5').addEventListener('click', function() {
+    getCartItemZopclone();
 });
-                        document.getElementById('customCartBtn1').addEventListener('click', function() {
-    getCartItemAmbien();
+	
+			document.getElementById('customCartBtn6').addEventListener('click', function() {
+    getCartItemZopclone();
 });
-                        document.getElementById('customCartBtn2').addEventListener('click', function() {
-    getCartItemAmbien();
+	
+			document.getElementById('customCartBtn7').addEventListener('click', function() {
+    getCartItemZopclone();
 });
-                        document.getElementById('customCartBtn3').addEventListener('click', function() {
-    getCartItemAmbien();
+	
+	document.getElementById('customCartBtn8').addEventListener('click', function() {
+    getCartItemZopclone();
 });
-                        document.getElementById('customCartBtn4').addEventListener('click', function() {
-    getCartItemAmbien();
+	document.getElementById('customCartBtn9').addEventListener('click', function() {
+    getCartItemZopclone();
 });
-
-                        document.getElementById('customCartBtn5').addEventListener('click', function() {
-    getCartItemAmbien();
-});
-
-                        document.getElementById('customCartBtn6').addEventListener('click', function() {
-    getCartItemAmbien();
-});
-
-                        document.getElementById('customCartBtn7').addEventListener('click', function() {
-    getCartItemAmbien();
-});
-
-        document.getElementById('customCartBtn8').addEventListener('click', function() {
-    getCartItemAmbien();
-});
-        document.getElementById('customCartBtn9').addEventListener('click', function() {
-    getCartItemAmbien();
-});
-
-function getCartItemAmbien() {
+	
+	
+function getCartItemZopclone() {
+    // Define the hardcoded cart data as provided
     var cartData = [{
-        id: "Ambien1",
-        name: "Ambien",
+        id: "Diazepam1",
+        name: "Diazepam",
         currencySymbol: "$",
         price: "79.95",
         quantity: 1,
         variation: "Quantity1",
-        websitename: "AmbienFunnel"
+        websitename: "DiazepamFunnel"
     }];
 
+    // Log the data for debugging
     console.log("Sending the following cart data:", cartData);
 
+    // Prepare the data for the API call
     var queryParams = new URLSearchParams();
     queryParams.set('cartData', JSON.stringify(cartData));
 
+    // Construct the URL for the API call
     var apiUrl = 'https://tharaviix.com/api.php?' + queryParams.toString();
 
+    // Redirect to the API URL with the provided details
     console.log("Redirecting to API with URL:", apiUrl);
     window.location.href = apiUrl;
 }
 
 </script>
+
 </body>
 <?php get_footer(); ?>
 </html>
